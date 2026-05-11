@@ -1,0 +1,11 @@
+{
+  "domain": "bosch_alarm_map",
+  "name": "Bosch Alarm (MAP)",
+  "codeowners": ["@sanjay900"],
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/bosch_alarm",
+  "integration_type": "device",
+  "iot_class": "local_push",
+  "requirements": ["bosch_alarm_map==git+https://github.com/sanjay900/bosch-alarm-map.git@master"],
+  "support": "community"
+}
