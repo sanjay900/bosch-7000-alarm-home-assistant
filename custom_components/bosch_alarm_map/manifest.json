@@ -6,7 +6,7 @@
   "documentation": "https://www.home-assistant.io/integrations/bosch_alarm",
   "integration_type": "device",
   "iot_class": "local_push",
-  "requirements": ["bosch_alarm_map==git+https://github.com/sanjay900/bosch-alarm-map.git@master"],
+  "requirements": ["bosch_alarm_map@git+https://github.com/sanjay900/bosch-alarm-map.git@master"],
   "support": "community",
   "version": "0.1.0"
 }
